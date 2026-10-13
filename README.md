@@ -30,6 +30,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - ElevenLabs
 - PlayHT
 - Murf AI
+- [QuietTake Noise Remover](https://noiseremover.site/) — Free browser-local RNNoise speech cleanup with original/cleaned playback and WAV export, without signup or audio upload; up to 50 MB and five minutes per file.
 
 ## 🎨 Design & Creativity
 - Canva AI
